@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alp Oral</h1>
+<h1 align="center">Hi 👋, Alp Oral here.</h1>
 <h3 align="center">A passionate developer who believes in consistency is the key</h3>
 
 - 🌱 I’m currently being evolved in **Node.js**
