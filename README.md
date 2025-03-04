@@ -3,7 +3,7 @@
 
 - 🔭 Currently working at **Baytech B.V.** as a **Full Stack & Android Developer**
 - 🌱 Evolving in **Node.js, React Native, and AI-driven applications**
-- 🚀 Experienced in **Java, Kotlin, JavaScript, Node.js, React, React Native, MongoDB, Firebase, Stripe, Masterpass**
+- 🚀 Experienced in **Java, Kotlin, JavaScript, Node.js, React, React Native, MongoDB, Firebase, Stripe Payment, Masterpass Payment**
 - 🎯 Passionate about **building scalable applications, Android development, and AI-driven tools**
 
 ---
@@ -28,5 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8WcawgdWtR0hFs-Ub3FIlqbmgAZ5PxOKMjQ&s" alt="Masterpass" width="40" height="40"/>
 </p>
 
