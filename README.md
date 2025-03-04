@@ -50,3 +50,5 @@
     <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
   </a>
 </p>
+
+---
