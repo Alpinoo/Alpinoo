@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack & Android Developer who believes consistency is the key</h3>
 
 - 🔭 Currently working at **Baytech B.V.** as a **Full Stack & Android Developer**
-- 🌱 Evolving in **React, React Native, Java, Kotlin and AI-driven applications**
+- 🌱 Evolving in **NestJS**, **GraphQL**, Java and AI-driven applications**
 - 🚀 Experienced in **Java, Kotlin, JavaScript, Node.js, MongoDB, Firebase, Stripe Payment, Masterpass Payment**
 - 🎯 Passionate about **building scalable applications, Android development, and AI-driven tools**
 
