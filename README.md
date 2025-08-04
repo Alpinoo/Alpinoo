@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Alp Oral here.</h1>
-<h3 align="center">A passionate Full Stack & Android Developer who believes consistency is the key</h3>
+<h3 align="center">A passionate Backend & Android Developer who believes consistency is the key</h3>
 
 - 🔭 Currently working at **Baytech B.V.** as a **Full Stack & Android Developer**
 - 🌱 Evolving in **NestJS**, **GraphQL**, **Java** and **AI-driven applications**
