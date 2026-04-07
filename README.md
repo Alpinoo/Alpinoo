@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Alp Oral here.</h1>
 <h3 align="center">A passionate Backend & Android Developer who believes consistency is the key</h3>
 
-- 🔭 Currently working at **Baytech B.V.** as a **Backend & Android Developer**
-- 🚀 Experienced in **Java, JavaScript, Node.js, MongoDB, Firebase, Stripe Payment, Masterpass Payment**
+
+- 🚀 Experienced in **React, React Native, Java, JavaScript, Node.js, MongoDB, Firebase, Stripe Payment, Masterpass Payment**
 - 🎯 Passionate about **building scalable applications, Web development, Android development, and AI-driven tools**
 
 ---
